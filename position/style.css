@@ -1,0 +1,24 @@
+.parent {
+    background: gray;
+    height: 1000px;
+}
+
+.child1 {
+    background: pink;
+}
+
+.child2 {
+    background: lightblue;
+    top: 0px;
+    position: sticky;
+}
+
+.child3 {
+    background: lightgreen;
+ 
+}
+
+.child1, .child2, .child3 {
+    height: 100px;
+   
+}
